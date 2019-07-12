@@ -4,7 +4,10 @@
 #### Lua 
 主要是ToLua，因为使用的是LuaFrameWork_NGUI版本，还有一些使用习惯跟注意点！
 - [Lua Table 使用](https://github.com/chenyunxiong/Study-Notes/wiki/Table)
+- [Lua 面向对象](https://github.com/chenyunxiong/Personal-Study-Wiki/wiki/Lua%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1)
 - [Lua 事件管理器](https://github.com/chenyunxiong/Personal-Study-Wiki/wiki/Lua%E4%BA%8B%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8)
+
+
 
 
 #### NGUI 
