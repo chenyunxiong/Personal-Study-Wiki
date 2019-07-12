@@ -17,6 +17,7 @@ NGUI是常用的UI插件，UGUI起来以后，地位受到了不小的冲击，�
 #### 算法 
 
 - [冒泡排序](https://github.com/chenyunxiong/Personal-Study-Wiki/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F) 
+- [快速排序](https://github.com/chenyunxiong/Personal-Study-Wiki/wiki/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F) 
 
 #### 设计模式
 
