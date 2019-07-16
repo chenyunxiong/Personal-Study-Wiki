@@ -24,6 +24,8 @@ NGUI是常用的UI插件，UGUI起来以后，地位受到了不小的冲击，�
 
 #### 设计模式
 - [订阅者模式](https://github.com/chenyunxiong/Personal-Study-Wiki/wiki/%E8%AE%A2%E9%98%85%E8%80%85%E6%A8%A1%E5%BC%8F) 
+- [工厂模式](https://github.com/chenyunxiong/Personal-Study-Wiki/wiki/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F) 
+
 
 #### 编程技术
 
